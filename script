@@ -1,0 +1,7 @@
+cd /d/Ilya/QA/Practice/Bash/group_22/homework/
+mkdir folder1 folder2 folder3
+cd folder1
+touch file1.txt file2.txt file3.txt js1.json js2.json
+mkdir one two three
+ls -l
+mv file2.txt js1.json /d/Ilya/QA/Practice/Bash/group_22/homework/folder2
